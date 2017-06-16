@@ -11,5 +11,13 @@
     "express": "^4.15.3"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shure37/learncode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shure37/learncode/issues"
+  },
+  "homepage": "https://github.com/shure37/learncode#readme",
   "description": ""
 }
