@@ -1,14 +1,21 @@
 {
   "name": "learncode",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
+    "css-loader": "^0.28.4",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "style-loader": "^0.18.2",
+    "underscore": "^1.8.3",
+    "webpack": "^2.6.1"
   },
   "devDependencies": {},
   "repository": {
